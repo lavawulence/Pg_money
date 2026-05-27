@@ -1,0 +1,23 @@
+# 🤖 WhatsApp PG Bot
+
+Bot WhatsApp pour gérer les transactions de points PG avec sécurité avancée.
+
+## 🚀 Installation
+
+1. Clonez le dépôt
+2. `npm install`
+3. `npm start`
+4. Scannez le QR code avec WhatsApp
+
+## 📱 Commandes
+
+- `/pay @utilisateur 10` - Envoyer des PG
+- `/balance` - Voir son solde
+- `/history` - Historique des transactions
+
+## 🔒 Sécurité
+
+- ✅ Validation par code à usage unique
+- ✅ Anti-spam et limites journalières
+- ✅ Détection des comptes multiples
+- ✅ Logs de sécurité complets
